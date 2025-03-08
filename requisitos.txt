@@ -1,0 +1,7 @@
+Requisitos Funcionais:
+1. O sistema deve permitir o login de usuários.
+2. O sistema deve permitir o cadastro de novos produtos.
+
+Requisitos Não Funcionais:
+1. O sistema deve ter alta disponibilidade.
+2. O sistema deve ser escalável.
