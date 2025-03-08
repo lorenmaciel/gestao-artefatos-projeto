@@ -1,0 +1,3 @@
+Plano de Governança de TI:
+- Acesso restrito aos membros da equipe.
+- As alterações devem ser documentadas e aprovadas por um responsável.
